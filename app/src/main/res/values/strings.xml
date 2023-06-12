@@ -1,0 +1,4 @@
+<resources>
+    <string name="search_button">search</string>
+    <string name="search_hint">Enter link with key for change value</string>
+</resources>
